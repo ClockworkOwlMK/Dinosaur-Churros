@@ -1,12 +1,11 @@
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Uu]ser[Ss]ettings/
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
 Assets/Imported Assets/Real Stars Skybox/StarSkybox04/CubemapStars.cubemap
 Assets/Imported Assets/Real Stars Skybox/StarSkybox04Named/CubemapStarsNamed.cubemap
 Assets/Imported Assets/Real Stars Skybox/StarSkybox04NamedConstell/CubemapStarsNamedConstellations.cubemap
 
-/[Tt]emp/
